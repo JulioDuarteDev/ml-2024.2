@@ -1,0 +1,721 @@
+parametros_usados,input_dim,units,epoca,acuracia,matriz de confusao
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,2,200,73.62637519836426,"[[33 11]
+ [13 34]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,5,50,75.82417726516724,"[[28 16]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,5,100,73.62637519836426,"[[39  5]
+ [19 28]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,5,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,10,50,78.02197933197021,"[[34 10]
+ [10 37]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,10,100,72.52747416496277,"[[21 23]
+ [ 2 45]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",13,10,200,83.51648449897766,"[[32 12]
+ [ 3 44]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,60.43956279754639,"[[ 9 35]
+ [ 1 46]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,81.31868243217468,"[[30 14]
+ [ 3 44]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,63.736265897750854,"[[12 32]
+ [ 1 46]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,80.2197813987732,"[[28 16]
+ [ 2 45]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,82.41758346557617,"[[31 13]
+ [ 3 44]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,78.02197933197021,"[[26 18]
+ [ 2 45]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,82.41758346557617,"[[32 12]
+ [ 4 43]]"
+"['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,83.51648449897766,"[[32 12]
+ [ 3 44]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,65.93406796455383,"[[40  4]
+ [27 20]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,79.1208803653717,"[[36  8]
+ [11 36]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,71.42857313156128,"[[26 18]
+ [ 8 39]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,73.62637519836426,"[[41  3]
+ [21 26]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,82.41758346557617,"[[30 14]
+ [ 2 45]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,71.42857313156128,"[[19 25]
+ [ 1 46]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,76.92307829856873,"[[39  5]
+ [16 31]]"
+"['age', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,81.31868243217468,"[[30 14]
+ [ 3 44]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,50.54945349693298,"[[ 0 44]
+ [ 1 46]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,72.52747416496277,"[[29 15]
+ [10 37]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,78.02197933197021,"[[34 10]
+ [10 37]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,75.82417726516724,"[[28 16]
+ [ 6 41]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,75.82417726516724,"[[27 17]
+ [ 5 42]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,79.1208803653717,"[[40  4]
+ [15 32]]"
+"['age', 'sex', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,79.1208803653717,"[[34 10]
+ [ 9 38]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,81.31868243217468,"[[32 12]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,81.31868243217468,"[[33 11]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,74.72527623176575,"[[23 21]
+ [ 2 45]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,70.32967209815979,"[[41  3]
+ [24 23]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,82.41758346557617,"[[31 13]
+ [ 3 44]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,79.1208803653717,"[[30 14]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,80.2197813987732,"[[31 13]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,80.2197813987732,"[[31 13]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,83.51648449897766,"[[34 10]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,50.54945349693298,"[[ 0 44]
+ [ 1 46]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,80.2197813987732,"[[29 15]
+ [ 3 44]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,79.1208803653717,"[[34 10]
+ [ 9 38]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,81.31868243217468,"[[33 11]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,81.31868243217468,"[[34 10]
+ [ 7 40]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,80.2197813987732,"[[29 15]
+ [ 3 44]]"
+"['age', 'sex', 'cp', 'trestbps', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,74.72527623176575,"[[40  4]
+ [19 28]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,68.13187003135681,"[[15 29]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,78.02197933197021,"[[33 11]
+ [ 9 38]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,80.2197813987732,"[[33 11]
+ [ 7 40]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,79.1208803653717,"[[29 15]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,79.1208803653717,"[[31 13]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,63.736265897750854,"[[43  1]
+ [32 15]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,80.2197813987732,"[[32 12]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,80.2197813987732,"[[29 15]
+ [ 3 44]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,79.1208803653717,"[[36  8]
+ [11 36]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,71.42857313156128,"[[25 19]
+ [ 7 40]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,49.450549483299255,"[[ 0 44]
+ [ 2 45]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,76.92307829856873,"[[27 17]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,78.02197933197021,"[[30 14]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,82.41758346557617,"[[34 10]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,84.61538553237915,"[[38  6]
+ [ 8 39]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,79.1208803653717,"[[30 14]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,79.1208803653717,"[[28 16]
+ [ 3 44]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,80.2197813987732,"[[33 11]
+ [ 7 40]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,80.2197813987732,"[[29 15]
+ [ 3 44]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,53.84615659713745,"[[ 7 37]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,76.92307829856873,"[[33 11]
+ [10 37]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,78.02197933197021,"[[31 13]
+ [ 7 40]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,71.42857313156128,"[[35  9]
+ [17 30]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,76.92307829856873,"[[36  8]
+ [13 34]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,52.74725556373596,"[[ 6 38]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,78.02197933197021,"[[31 13]
+ [ 7 40]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'exang', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,75.82417726516724,"[[31 13]
+ [ 9 38]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,1,100,50.54945349693298,"[[ 0 44]
+ [ 1 46]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,2,200,50.54945349693298,"[[ 0 44]
+ [ 1 46]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,5,50,81.31868243217468,"[[32 12]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,5,100,80.2197813987732,"[[29 15]
+ [ 3 44]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,5,200,79.1208803653717,"[[32 12]
+ [ 7 40]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,10,50,82.41758346557617,"[[34 10]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,10,100,65.93406796455383,"[[41  3]
+ [28 19]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']",12,10,200,79.1208803653717,"[[32 12]
+ [ 7 40]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,1,50,75.82417726516724,"[[26 18]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,1,200,80.2197813987732,"[[31 13]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,2,100,79.1208803653717,"[[29 15]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,2,200,76.92307829856873,"[[39  5]
+ [16 31]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,5,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,5,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,5,200,51.64835453033447,"[[ 1 43]
+ [ 1 46]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,10,50,82.41758346557617,"[[38  6]
+ [10 37]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,10,100,78.02197933197021,"[[28 16]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'slope', 'ca', 'thal']",12,10,200,76.92307829856873,"[[27 17]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,2,100,78.02197933197021,"[[29 15]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,5,50,72.52747416496277,"[[34 10]
+ [15 32]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,5,100,78.02197933197021,"[[28 16]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,5,200,80.2197813987732,"[[31 13]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,10,50,79.1208803653717,"[[30 14]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,10,100,73.62637519836426,"[[36  8]
+ [16 31]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'ca', 'thal']",12,10,200,81.31868243217468,"[[33 11]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,1,200,76.92307829856873,"[[27 17]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,2,200,50.54945349693298,"[[ 0 44]
+ [ 1 46]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,5,50,74.72527623176575,"[[22 22]
+ [ 1 46]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,5,100,78.02197933197021,"[[28 16]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,5,200,78.02197933197021,"[[33 11]
+ [ 9 38]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,10,50,71.42857313156128,"[[41  3]
+ [23 24]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,10,100,79.1208803653717,"[[27 17]
+ [ 2 45]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'thal']",12,10,200,78.02197933197021,"[[28 16]
+ [ 4 43]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,1,100,76.92307829856873,"[[29 15]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,1,200,78.02197933197021,"[[32 12]
+ [ 8 39]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,2,100,67.03296899795532,"[[41  3]
+ [27 20]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,5,50,76.92307829856873,"[[26 18]
+ [ 3 44]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,5,100,80.2197813987732,"[[28 16]
+ [ 2 45]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,5,200,72.52747416496277,"[[38  6]
+ [19 28]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,10,50,76.92307829856873,"[[29 15]
+ [ 6 41]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,10,100,79.1208803653717,"[[30 14]
+ [ 5 42]]"
+"['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']",12,10,200,78.02197933197021,"[[28 16]
+ [ 4 43]]"
+['age'],1,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['age'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['age'],1,1,200,52.74725556373596,"[[ 1 43]
+ [ 0 47]]"
+['age'],1,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['age'],1,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['age'],1,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['age'],1,5,50,71.42857313156128,"[[33 11]
+ [15 32]]"
+['age'],1,5,100,52.74725556373596,"[[ 3 41]
+ [ 2 45]]"
+['age'],1,5,200,67.03296899795532,"[[27 17]
+ [13 34]]"
+['age'],1,10,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['age'],1,10,100,71.42857313156128,"[[33 11]
+ [15 32]]"
+['age'],1,10,200,58.24176073074341,"[[ 9 35]
+ [ 3 44]]"
+['sex'],1,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['sex'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['sex'],1,1,200,53.84615659713745,"[[36  8]
+ [34 13]]"
+['sex'],1,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['sex'],1,2,100,53.84615659713745,"[[36  8]
+ [34 13]]"
+['sex'],1,2,200,53.84615659713745,"[[36  8]
+ [34 13]]"
+['sex'],1,5,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['sex'],1,5,100,53.84615659713745,"[[36  8]
+ [34 13]]"
+['sex'],1,5,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['sex'],1,10,50,53.84615659713745,"[[36  8]
+ [34 13]]"
+['sex'],1,10,100,53.84615659713745,"[[36  8]
+ [34 13]]"
+['sex'],1,10,200,53.84615659713745,"[[36  8]
+ [34 13]]"
+['cp'],1,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['cp'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['cp'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['cp'],1,2,50,76.92307829856873,"[[32 12]
+ [ 9 38]]"
+['cp'],1,2,100,76.92307829856873,"[[32 12]
+ [ 9 38]]"
+['cp'],1,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['cp'],1,5,50,76.92307829856873,"[[32 12]
+ [ 9 38]]"
+['cp'],1,5,100,76.92307829856873,"[[32 12]
+ [ 9 38]]"
+['cp'],1,5,200,76.92307829856873,"[[32 12]
+ [ 9 38]]"
+['cp'],1,10,50,76.92307829856873,"[[32 12]
+ [ 9 38]]"
+['cp'],1,10,100,76.92307829856873,"[[32 12]
+ [ 9 38]]"
+['cp'],1,10,200,76.92307829856873,"[[32 12]
+ [ 9 38]]"
+['trestbps'],1,1,50,48.351648449897766,"[[25 19]
+ [28 19]]"
+['trestbps'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['trestbps'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['trestbps'],1,2,50,49.450549483299255,"[[ 6 38]
+ [ 8 39]]"
+['trestbps'],1,2,100,52.74725556373596,"[[ 1 43]
+ [ 0 47]]"
+['trestbps'],1,2,200,50.54945349693298,"[[30 14]
+ [31 16]]"
+['trestbps'],1,5,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['trestbps'],1,5,100,53.84615659713745,"[[ 6 38]
+ [ 4 43]]"
+['trestbps'],1,5,200,48.351648449897766,"[[44  0]
+ [47  0]]"
+['trestbps'],1,10,50,52.74725556373596,"[[30 14]
+ [29 18]]"
+['trestbps'],1,10,100,50.54945349693298,"[[43  1]
+ [44  3]]"
+['trestbps'],1,10,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,5,50,48.351648449897766,"[[44  0]
+ [47  0]]"
+['chol'],1,5,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,5,200,48.351648449897766,"[[44  0]
+ [47  0]]"
+['chol'],1,10,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,10,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['chol'],1,10,200,57.14285969734192,"[[ 9 35]
+ [ 4 43]]"
+['fbs'],1,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['fbs'],1,1,100,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['fbs'],1,1,200,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['fbs'],1,2,50,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['fbs'],1,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['fbs'],1,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['fbs'],1,5,50,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['fbs'],1,5,100,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['fbs'],1,5,200,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['fbs'],1,10,50,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['fbs'],1,10,100,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['fbs'],1,10,200,46.15384638309479,"[[ 3 41]
+ [ 8 39]]"
+['restecg'],1,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,2,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,5,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,5,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,5,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,10,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,10,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['restecg'],1,10,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['thalach'],1,1,50,57.14285969734192,"[[ 5 39]
+ [ 0 47]]"
+['thalach'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['thalach'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['thalach'],1,2,50,61.538463830947876,"[[ 9 35]
+ [ 0 47]]"
+['thalach'],1,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['thalach'],1,2,200,67.03296899795532,"[[19 25]
+ [ 5 42]]"
+['thalach'],1,5,50,62.637364864349365,"[[10 34]
+ [ 0 47]]"
+['thalach'],1,5,100,68.13187003135681,"[[30 14]
+ [15 32]]"
+['thalach'],1,5,200,64.83516693115234,"[[16 28]
+ [ 4 43]]"
+['thalach'],1,10,50,52.74725556373596,"[[43  1]
+ [42  5]]"
+['thalach'],1,10,100,58.24176073074341,"[[ 6 38]
+ [ 0 47]]"
+['thalach'],1,10,200,67.03296899795532,"[[30 14]
+ [16 31]]"
+['exang'],1,1,50,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['exang'],1,1,100,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['exang'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['exang'],1,2,50,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['exang'],1,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['exang'],1,2,200,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['exang'],1,5,50,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['exang'],1,5,100,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['exang'],1,5,200,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['exang'],1,10,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['exang'],1,10,100,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['exang'],1,10,200,69.2307710647583,"[[21 23]
+ [ 5 42]]"
+['oldpeak'],1,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['oldpeak'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['oldpeak'],1,1,200,62.637364864349365,"[[18 26]
+ [ 8 39]]"
+['oldpeak'],1,2,50,62.637364864349365,"[[18 26]
+ [ 8 39]]"
+['oldpeak'],1,2,100,62.637364864349365,"[[18 26]
+ [ 8 39]]"
+['oldpeak'],1,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['oldpeak'],1,5,50,62.637364864349365,"[[18 26]
+ [ 8 39]]"
+['oldpeak'],1,5,100,62.637364864349365,"[[18 26]
+ [ 8 39]]"
+['oldpeak'],1,5,200,62.637364864349365,"[[18 26]
+ [ 8 39]]"
+['oldpeak'],1,10,50,62.637364864349365,"[[18 26]
+ [ 8 39]]"
+['oldpeak'],1,10,100,61.538463830947876,"[[16 28]
+ [ 7 40]]"
+['oldpeak'],1,10,200,62.637364864349365,"[[18 26]
+ [ 8 39]]"
+['slope'],1,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['slope'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['slope'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['slope'],1,2,50,70.32967209815979,"[[34 10]
+ [17 30]]"
+['slope'],1,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['slope'],1,2,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['slope'],1,5,50,70.32967209815979,"[[34 10]
+ [17 30]]"
+['slope'],1,5,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['slope'],1,5,200,70.32967209815979,"[[34 10]
+ [17 30]]"
+['slope'],1,10,50,70.32967209815979,"[[34 10]
+ [17 30]]"
+['slope'],1,10,100,70.32967209815979,"[[34 10]
+ [17 30]]"
+['slope'],1,10,200,70.32967209815979,"[[34 10]
+ [17 30]]"
+['ca'],1,1,50,72.52747416496277,"[[31 13]
+ [12 35]]"
+['ca'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['ca'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['ca'],1,2,50,72.52747416496277,"[[31 13]
+ [12 35]]"
+['ca'],1,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['ca'],1,2,200,72.52747416496277,"[[31 13]
+ [12 35]]"
+['ca'],1,5,50,72.52747416496277,"[[31 13]
+ [12 35]]"
+['ca'],1,5,100,72.52747416496277,"[[31 13]
+ [12 35]]"
+['ca'],1,5,200,72.52747416496277,"[[31 13]
+ [12 35]]"
+['ca'],1,10,50,72.52747416496277,"[[31 13]
+ [12 35]]"
+['ca'],1,10,100,72.52747416496277,"[[31 13]
+ [12 35]]"
+['ca'],1,10,200,72.52747416496277,"[[31 13]
+ [12 35]]"
+['thal'],1,1,50,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['thal'],1,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+['thal'],1,2,50,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,2,100,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,2,200,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,5,50,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,5,100,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,5,200,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,10,50,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,10,100,72.52747416496277,"[[29 15]
+ [10 37]]"
+['thal'],1,10,200,70.32967209815979,"[[29 15]
+ [12 35]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,1,100,80.2197813987732,"[[33 11]
+ [ 7 40]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,2,50,78.02197933197021,"[[30 14]
+ [ 6 41]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,2,100,74.72527623176575,"[[31 13]
+ [10 37]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,2,200,79.1208803653717,"[[31 13]
+ [ 6 41]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,5,50,83.51648449897766,"[[38  6]
+ [ 9 38]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,5,100,74.72527623176575,"[[28 16]
+ [ 7 40]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,5,200,78.02197933197021,"[[29 15]
+ [ 5 42]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,10,50,78.02197933197021,"[[41  3]
+ [17 30]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,10,100,81.31868243217468,"[[35  9]
+ [ 8 39]]"
+"['cp', 'ca', 'thal', 'age', 'slope']",5,10,200,83.51648449897766,"[[39  5]
+ [10 37]]"
+"['cp', 'ca', 'thal', 'age']",4,1,50,73.62637519836426,"[[32 12]
+ [12 35]]"
+"['cp', 'ca', 'thal', 'age']",4,1,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['cp', 'ca', 'thal', 'age']",4,1,200,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['cp', 'ca', 'thal', 'age']",4,2,50,71.42857313156128,"[[30 14]
+ [12 35]]"
+"['cp', 'ca', 'thal', 'age']",4,2,100,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['cp', 'ca', 'thal', 'age']",4,2,200,79.1208803653717,"[[31 13]
+ [ 6 41]]"
+"['cp', 'ca', 'thal', 'age']",4,5,50,79.1208803653717,"[[32 12]
+ [ 7 40]]"
+"['cp', 'ca', 'thal', 'age']",4,5,100,79.1208803653717,"[[32 12]
+ [ 7 40]]"
+"['cp', 'ca', 'thal', 'age']",4,5,200,78.02197933197021,"[[40  4]
+ [16 31]]"
+"['cp', 'ca', 'thal', 'age']",4,10,50,78.02197933197021,"[[40  4]
+ [16 31]]"
+"['cp', 'ca', 'thal', 'age']",4,10,100,68.13187003135681,"[[19 25]
+ [ 4 43]]"
+"['cp', 'ca', 'thal', 'age']",4,10,200,78.02197933197021,"[[29 15]
+ [ 5 42]]"
+"['cp', 'ca', 'thal', 'slope']",4,1,50,51.64835453033447,"[[ 0 44]
+ [ 0 47]]"
+"['cp', 'ca', 'thal', 'slope']",4,1,100,82.41758346557617,"[[37  7]
+ [ 9 38]]"
+"['cp', 'ca', 'thal', 'slope']",4,1,200,82.41758346557617,"[[37  7]
+ [ 9 38]]"
+"['cp', 'ca', 'thal', 'slope']",4,2,50,78.02197933197021,"[[30 14]
+ [ 6 41]]"
+"['cp', 'ca', 'thal', 'slope']",4,2,100,82.41758346557617,"[[36  8]
+ [ 8 39]]"
+"['cp', 'ca', 'thal', 'slope']",4,2,200,82.41758346557617,"[[34 10]
+ [ 6 41]]"
+"['cp', 'ca', 'thal', 'slope']",4,5,50,82.41758346557617,"[[38  6]
+ [10 37]]"
+"['cp', 'ca', 'thal', 'slope']",4,5,100,82.41758346557617,"[[38  6]
+ [10 37]]"
+"['cp', 'ca', 'thal', 'slope']",4,5,200,78.02197933197021,"[[29 15]
+ [ 5 42]]"
+"['cp', 'ca', 'thal', 'slope']",4,10,50,84.61538553237915,"[[37  7]
+ [ 7 40]]"
+"['cp', 'ca', 'thal', 'slope']",4,10,100,82.41758346557617,"[[35  9]
+ [ 7 40]]"
+"['cp', 'ca', 'thal', 'slope']",4,10,200,80.2197813987732,"[[34 10]
+ [ 8 39]]"
